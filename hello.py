@@ -1,1 +1,1 @@
-print("Hello SupersoniQ now in Jenkins")
+print("Hello SupersoniQ is now in Jenkins")
