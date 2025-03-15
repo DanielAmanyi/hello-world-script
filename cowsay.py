@@ -2,7 +2,7 @@ def cowsay(message):
     border = "-" * (len(message) + 2)
     cow = r"""
         \   ^__^
-         \  (oo)\_______
+         \  (oo)\___^___
             (__)\       )\/\
                 ||----w |\
                 || super||
