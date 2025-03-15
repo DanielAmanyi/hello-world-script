@@ -5,7 +5,7 @@ def cowsay(message):
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
-                ||     ||
+                || super||
     """
     speech_bubble = f"""
       {border}
