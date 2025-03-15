@@ -4,7 +4,7 @@ def cowsay(message):
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
-                ||----w |
+                ||----w |\
                 || super||
     """
     speech_bubble = f"""
